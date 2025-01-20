@@ -1,2 +1,2 @@
 # DevOps-Projects
-A repository containing various DevOps-related practice projects.
+A repository containing various personal DevOps-related practice projects.
