@@ -11,7 +11,7 @@ import static org.hamcrest.Matchers.greaterThan;
 // import static org.junit.Assert.*;
 import static org.junit.matchers.JUnitMatchers.containsString;
 
-public class TestGreeter {
+public class {
 
   private Greeter greeter;
 
