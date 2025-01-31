@@ -7,11 +7,11 @@ import org.mockito.internal.matchers.LessThan;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.Matchers.greaterThan;
-// import static org.hamcrest.Matchers.lessThan;
-// import static org.junit.Assert.*;
+import static org.hamcrest.Matchers.lessThan;
+import static org.junit.Assert.*;
 import static org.junit.matchers.JUnitMatchers.containsString;
 
-public class {
+public class TestGreeter {
 
   private Greeter greeter;
 
@@ -29,7 +29,7 @@ public class {
 
   @Test
   public void intentionally_Failed() {
-    assertTrue(true);
+    assertTrue(false);
   }
   
 
